@@ -46,7 +46,7 @@ main{
     grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
     grid-auto-columns: 6rem;
     grid-gap: 2rem;
-    margin: 4rem;
+    margin: 4.5rem;
     align-items: center;
 }
 
@@ -55,7 +55,7 @@ main{
     border: 0.2rem solid ;
     border-radius: 2rem;
     height: 22rem;
-    width: 15.5rem;
+    width: 14.5rem;
     transition: 1.2s;
     cursor: pointer;
 }
