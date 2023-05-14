@@ -24,7 +24,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-body.darkmode{
+.darkmode{
     background-image: var(--cor-rodape);
     color: whitesmoke;
 }
@@ -44,7 +44,7 @@ header{
     width: 2rem;
 }
 
-.imagemBotao:hover, .logo:hover, .listaDePokemons:hover{
+.imagemBotao:hover, .logo:hover{
     transform: scale(1.05);
     cursor: pointer;
 }
@@ -79,7 +79,6 @@ main{
     height: 20rem;
     width: 14rem;
     transition: 1s ease-in-out;
-    cursor: pointer;
 }
 
 .listaDePokemons:hover{
