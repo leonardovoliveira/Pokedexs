@@ -30,6 +30,7 @@ body{
 }
 
 header{
+    margin: 1rem 2rem 1rem;
     display: flex;
     justify-content: space-between ;
 }
@@ -58,7 +59,7 @@ header{
     font-family: 'Pokemon Hollow', sans-serif;
     color: yellow;
     background-color: black;
-    width: 100vw;
+    width: 100%;
     text-align: center;
     
 }
